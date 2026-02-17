@@ -71,7 +71,7 @@ export default function Home() {
             <div className="mb-7">
               <div className="inline-flex items-center gap-2 rounded-full border border-black/5 bg-white/70 px-3 py-1 text-xs text-neutral-700">
                 <span className="h-2 w-2 rounded-full bg-emerald-500" />
-                razz coach
+                rizz coach
               </div>
 
               <h1 className="mt-4 text-3xl font-semibold tracking-tight text-neutral-900">
